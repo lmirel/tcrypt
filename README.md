@@ -48,3 +48,6 @@ Cleanup:
 
 pi@raspberrypi ~/truecrypt-7.1a-source $ cd ~
 pi@raspberrypi ~ $ rm -r truecrypt-7.1a-source TrueCrypt 7.1a Source.tar.gz wxWidgets-2.8.12*
+
+#1 I uploaded the binary. If you don’t want to compile truecrypt yourself, feel free to use this http://carrier-lost.org/files/truecrypt
+#2 If you want to automatically mount the truecrypt container on startup and unmount on shutdown, take a look at this http://www.carrier-lost.org/blog/raspberry-pi-mount-and-unmount-truecrypt-on-startup-and-shutdown
